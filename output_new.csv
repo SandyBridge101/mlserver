@@ -1,0 +1,8 @@
+product_id,product_name,category,number_of_purchases,purchase_percentage,lemmatized_concatenated
+1,Coca-cola Drink,Groceries,8,0.11,Coca-cola Drink Groceries
+2,Nestle Choccolim,Sports & Outdoors,7,0.09,Nestle Choccolim Sports & Outdoors
+3,Arduino Starter Kit,Electronics,8,0.11,Arduino Starter Kit Electronics
+4,Lipton Green Tea,Groceries,3,0.04,Lipton Green Tea Groceries
+5,Shopping Cart,Home & Kitchen,1,0.01,Shopping Cart Home & Kitchen
+6,Exercise Book,Office,5,0.07,Exercise Book Office
+7,Wheat Bread,Food|Pastries,4,0.05,Wheat Bread Food|Pastries
